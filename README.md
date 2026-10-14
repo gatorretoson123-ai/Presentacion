@@ -1,7 +1,7 @@
-Hola a todos
-me presento
+# Hola a todos
+## me presento
 
-me llamo victor, soy estudiante del Instituto Nacional Ernesto Flores,
+### me llamo victor, soy estudiante del Instituto Nacional Ernesto Flores,
 tengo 16 años de edad y estoy cursando mi primer año en tecnico vocacional en desarrollo software,
 y estoy aqui dispuesto a aprender mucho sobre programación y codificar, me gustan mucho los dispositivos electronicos
 y desde niño he crecido cerca de ellos al igual que de motores, quiero algun dia utilizar todos estos conocimientos
